@@ -1,4 +1,9 @@
 echo hello welcome
-this is bhargavi
 this is kishore
+<<<<<<< HEAD
 this is bhargavi modifying second time
+=======
+this is fisrst time
+this is ganesh 
+this is bhargavi
+>>>>>>> 9d70c990ee7e0f8a4d7cde25044a7a54ff769762
